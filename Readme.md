@@ -1,133 +1,107 @@
-<h1 align="center">Hi 👋, I'm Nitin Chauhan</h1>
-<h3 align="center">Full Stack Developer | MERN | Next.js | Backend & Cloud Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#8b5cf6;">Nitin Chauhan</span>
+</h1>
+
+<h3 align="center">
+  🚀 Full Stack Developer | MERN | Next.js | Backend & Cloud
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;MERN+%7C+Next.js+%7C+FastAPI;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-🎓 B.Tech Computer Science Graduate from **Amity University, Noida**  
-💻 Passionate **Full Stack Developer** with strong backend experience  
+🎓 B.Tech Computer Science Graduate – **Amity University, Noida**  
+💻 Passionate **Full Stack Developer** with strong backend skills  
 🧠 Interested in **Scalable Systems, APIs, Cloud & Security**  
-⚡ Fast learner, problem solver, and tech enthusiast  
+⚡ Fast learner | Problem solver | Tech enthusiast  
 
-- 🔭 Currently working on **MERN & Next.js projects**
-- 🌱 Learning **Advanced Backend, System Design & Cloud**
-- 👯 Open to **Full-Stack / Backend Internship & Job Opportunities**
-- 📫 Reach me at **nitin8285510025@gmail.com**
+📫 **Email:** `nitin8285510025@gmail.com`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Icons Only)
 
-### 💻 Programming Languages
-- JavaScript (ES6+)
-- Python
-- C
-- SQL
-- HTML5 / CSS3
+<p align="center">
 
-### ⚙️ Frameworks & Libraries
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- Laravel
-- Redux
-- Tailwind CSS
-- Framer Motion
-- GSAP
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,python,c,html,css,sql" />
 
-### 🗄️ Databases
-- MongoDB
-- PostgreSQL
-- Appwrite
+<br/>
 
-### 🔐 Authentication & Tools
-- JWT
-- Bcrypt
-- Socket.IO
-- Git & GitHub
-- REST APIs
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,redux,tailwind" />
+
+<br/>
+
+<!-- Databases & Tools -->
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,docker" />
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🌈 Featured Projects
 
 ### 🏠 Property Information Automation Platform
-**Tech:** FastAPI, PostgreSQL, Next.js, OCR  
-🔗 [GitHub Repo](https://github.com/supernitin06/Realstate.git)
+🔗 https://github.com/supernitin06/Realstate.git  
+**FastAPI • PostgreSQL • Next.js • OCR**
 
-- Centralized platform to search property & government scheme data
-- OCR-based document processing
-- Area, region & cost-based filtering
+✨ Centralized property & government scheme platform  
+✨ Advanced search & filtering  
+✨ OCR-powered document processing  
 
 ---
 
 ### 🌐 Social Media Application (MERN)
-**Tech:** MongoDB, Express, React, Node.js, JWT, Socket.IO, Redux  
-🔗 [GitHub Repo](https://github.com/supernitin06/Socialmedia_app.git)
+🔗 https://github.com/supernitin06/Socialmedia_app.git  
+**MongoDB • Express • React • Node • Socket.IO • Redux**
 
-- Secure authentication & authorization
-- Real-time chat & notifications
-- Efficient state management with Redux
-
----
-
-## 💼 Experience
-
-### 🧑‍💻 Software Developer  
-**Perfectkode Software Technologies** *(Feb 2025 – Oct 2025)*  
-- Built scalable web applications using **Next.js, React, FastAPI & Laravel**
-- Focused on performance optimization and responsive UI
-
-### 🛡️ Microsoft Purview Intern  
-**Pink Unicorn, Gurgaon** *(Aug 2024 – Nov 2024)*  
-- Worked on **Data Lifecycle Management**
-- Information Protection & Compliance solutions
+✨ Secure authentication & authorization  
+✨ Real-time chat & notifications  
+✨ Scalable architecture  
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **First Prize – Times of India Aptitude Test** (Scholarship Awarded)
-- 📜 NPTEL Certification in **Software Testing**
-- 🎓 Certified **Full Stack MERN Developer**
-
----
-
-## 🌍 Positions of Responsibility
-
-- 👨‍🏫 Teaching Volunteer  
-  **Jax Foundation NGO** *(Feb 2023 – Present)*
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Glow Effect)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supernitin06&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supernitin06&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supernitin06&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supernitin06&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/nitin-chauhan-8b7388295" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-</a>
-<a href="mailto:nitin8285510025@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/supernitin06">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-chauhan-8b7388295">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nitin8285510025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/supernitin06">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories and connect!* 🚀
+<p align="center">
+✨ <strong>Code. Learn. Build. Repeat.</strong> ✨
+</p>
