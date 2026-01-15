@@ -3,85 +3,71 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | MERN | Next.js | Backend & Cloud
+  Full Stack Developer | MERN | Next.js | Backend & Cloud
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;MERN+%7C+Next.js+%7C+FastAPI;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+FastAPI;Backend+Focused+Engineer;Always+Learning+%26+Building" />
 </p>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Graduate – **Amity University, Noida**  
-💻 Passionate **Full Stack Developer** with strong backend skills  
-🧠 Interested in **Scalable Systems, APIs, Cloud & Security**  
-⚡ Fast learner | Problem solver | Tech enthusiast  
+- 🎓 **B.Tech (CSE)** – Amity University, Noida  
+- 💻 Full Stack Developer with **strong backend expertise**
+- 🔐 Interested in **APIs, Scalable Systems, Cloud & Security**
+- ⚡ Fast learner | Practical problem solver
 
 📫 **Email:** `nitin8285510025@gmail.com`
 
 ---
 
-## 🛠️ Tech Stack (Icons Only)
+## 🛠 Tech Stack
 
-<p align="center">
+### Languages
+![My Skills](https://skillicons.dev/icons?i=js,python,c,html,css,sql)
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js,python,c,html,css,sql" />
+### Frameworks & Libraries
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,fastapi)
 
-<br/>
-
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,redux,tailwind" />
-
-<br/>
-
-<!-- Databases & Tools -->
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,docker" />
-
-</p>
+### Databases & Tools
+![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,docker)
 
 ---
 
-## 🌈 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏠 Property Information Automation Platform
 🔗 https://github.com/supernitin06/Realstate.git  
-**FastAPI • PostgreSQL • Next.js • OCR**
 
-✨ Centralized property & government scheme platform  
-✨ Advanced search & filtering  
-✨ OCR-powered document processing  
+**Tech:** FastAPI • PostgreSQL • Next.js • OCR  
+
+- Centralized property & government scheme data
+- Advanced filtering & search
+- OCR-based document processing
 
 ---
 
 ### 🌐 Social Media Application (MERN)
 🔗 https://github.com/supernitin06/Socialmedia_app.git  
-**MongoDB • Express • React • Node • Socket.IO • Redux**
 
-✨ Secure authentication & authorization  
-✨ Real-time chat & notifications  
-✨ Scalable architecture  
+**Tech:** MongoDB • Express • React • Node • Socket.IO • Redux  
 
----
-
-## 📊 GitHub Stats (Glow Effect)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supernitin06&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supernitin06&theme=tokyonight&hide_border=true" />
-</p>
+- Secure authentication & authorization
+- Real-time chat & notifications
+- Scalable backend architecture
 
 ---
 
-## 🐍 Contribution Graph (Animated)
+## 📊 GitHub Stats (Real Data)
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supernitin06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=supernitin06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,5 +89,5 @@
 ---
 
 <p align="center">
-✨ <strong>Code. Learn. Build. Repeat.</strong> ✨
+  <strong>Code • Learn • Build • Repeat</strong>
 </p>
